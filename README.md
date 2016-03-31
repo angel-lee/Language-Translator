@@ -5,5 +5,5 @@ Java application created using Netbeans, Eclipse, and the Google Translate API t
 To run, you may compile the files or run the jar file.
 
 ## Compiling using the command line
-1. Navigate to where the code is located
+1. `cd` to where the code is located
 2. Type in `java HCIProject1`
